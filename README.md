@@ -1,3 +1,12 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Clone of https://gitlab.ics.muni.cz/perun/perun-idm/perun-services.git for the purpose of testing and analysis.
+
+# Under NO CIRCUMSTANCES should be used for deployment of the perun service.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 # [![Perun](https://webcentrum.muni.cz/media/3153530/perun.svg)](https://perun-aai.org)
 
 ## Perun services
